@@ -1,0 +1,77 @@
+Ejercicio 1:
+Crear un arreglo de N elementos enteros. Llenar el arreglo con N números enteros provistos
+por el usuario. Escribir una función que tome como parámetro el arreglo y devuelva la posición
+del elemento más chico del arreglo. Imprimir por pantalla el menor de los elementos del
+arreglo.
+Ejercicio 2:
+Crear un arreglo de N elementos enteros. Llenar el arreglo con N números enteros provistos
+por el usuario. Escribir una función que tome como parámetro el arreglo y devuelva la posición
+del elemento más grande del arreglo. Imprimir por pantalla el mayor de los elementos del
+arreglo.
+Ejercicio 3:
+Crear un arreglo de N elementos enteros. Imprimir por pantalla el mensaje: “Todos positivos”
+si todos sus elementos son positivos. En caso contrario imprimir por pantalla el mensaje: “No
+todos positivos”.
+Nota: se debería utilizar una única sentencia if en la impresión del mensaje por pantalla.
+Ejercicio 4:
+Crear un arreglo boléanos de N elementos. Calcular e imprimir por pantalla el producto de la
+cantidad de los elementos que en una posición par del arreglo son true por la cantidad de
+elementos que en posición impar son false.
+Ejercicio 5:
+Crear dos arreglos de enteros de N elementos cada uno. Generar e imprimir por pantalla un
+tercer arreglo que contenga los elementos de posiciones impares del primer arreglo y los de
+posiciones pares del segundo arreglo.
+Ejercicio 6:
+Crear dos arreglos de enteros de N elementos cada uno. Si el primer arreglo se referencia con
+la variable A y el segundo arreglo se referencia con la variable B. Generar e imprimir por
+pantalla un tercer arreglo en el cual sus elementos están dados por la siguiente fórmula: C(i) =
+A(i) * B(N – i), si C es el nombre de la variable que referencia al tercer arreglo.
+Ejercicio 7:
+Crear un arreglo de enteros de N elementos. Generar e imprimir por pantalla un arreglo que
+contenga los elementos del primer arreglo en orden inverso.
+Ejercicio 8:
+Crear un arreglo de enteros de N elementos. Generar otro arreglo que es el resultado del
+producto del arreglo por el escalar 3.14. El producto de un arreglo por un escalar se define
+como la multiplicación de cada una de sus posiciones por el escalar. Imprimir por pantalla los
+elementos del arreglo resultante.
+Ejercicio 9:
+Crear dos arreglos de enteros de N elementos. Calcular e imprimir por pantalla el resultado del
+producto escalar de los arreglos. El producto escalar de dos arreglos se define como la
+sumatoria del producto de los elementos que se encuentran en la misma posición en cada uno
+de los arreglos.
+Ejercicio 10:
+Crear un arreglo de enteros de N elementos. Calcular e imprimir por pantalla el resultado del
+producto escalar entre el arreglo y un arreglo que contenga los elementos del primer arreglo
+en orden inverso.
+Nota: no debería ser necesario duplicar el código para calcular el producto escalar ni el código
+necesario para invertir los elementos de un arreglo. En ambos casos se deberían haber creado
+métodos que realizaran dicha tarea.
+Ejercicio 11:
+Crear un arreglo de enteros de N elementos. Ingresar un número y buscarlo en el arreglo.
+Imprimir por pantalla la posición del número si éste se encuentra en el arreglo. En caso
+contrario imprimir por pantalla el mensaje: “El número buscado no se encuentra en el
+arreglo”.
+Ejercicio 12:
+Crear un arreglo de enteros de N elementos. Imprimir por pantalla los elementos del arreglo
+ordenados en forma ascendente. Luego, realizar lo mismo, pero ordenarlo de manera
+descendente.
+Ejercicio 13:
+Crear un arreglo de enteros de N elementos. Ordenarlo de manera ascendente. Ingresar un
+número y buscarlo en el arreglo de manera eficiente aprovechando que los elementos del
+arreglo se encuentran ordenados.
+Ejercicio 14:
+Crear un arreglo de enteros de N elementos. Luego, crear un arreglo de enteros de 2*N
+elementos. Copiar todos los elementos del primer arreglo al segundo. Llenar las posiciones
+restantes del segundo arreglo con el entero 10. Imprimir por pantalla los elementos del
+segundo arreglo.
+ Ejercicio 15:
+Crear un arreglo de enteros de N elementos. Ordenarlo. Ingresar un entero e intercalarlo de
+manera tal que el mismo quede ordenado. Imprimir el arreglo resultante por pantalla.
+Ejercicio 16:
+Crear un arreglo de enteros de N elementos. Verificar en imprimir por pantalla si todos sus
+elementos se encuentran en orden estrictamente creciente.
+Ejercicio 17:
+Crear un arreglo de enteros de N elementos. Verificar si los elementos se encuentran en orden
+estrictamente creciente. Si los elementos no se encuentran en orden estrictamente creciente,
+imprimir por pantalla la cantidad de veces que se rompe ese orden.
+Ejemplo: { 1, 3, 5, 2, 4, 6, 8, 8, 9, 10}, el número de veces que se rompe el orden es 2. 
